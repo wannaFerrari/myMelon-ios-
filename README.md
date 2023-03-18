@@ -1,6 +1,6 @@
 # myMelon-ios-
 
-# 선택 화면
+### 선택 화면
 ```
 - 하나의 collectionView 안에 여러 contentView를 포함하여 구성
 - 앱 안에 포함된 곡의 정보를 불러오며 선택 화면 속 UI 생성
