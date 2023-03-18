@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3EBEF650-AF77-4930-B2FE-1C57979B8EA1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project-1771400/Player/PlayerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "PlayerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED - b674d5d256c5f564"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.RepeatButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED - 775bc4c5615c4570"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.RepeatButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED - 9d314a33623d5963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.RepeatButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED - 4343d88e9a409190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.RepeatButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED - c29a291529813539"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; project_1771400.PlayerViewController"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "D0AA663C-CD55-4D0F-9600-756E87520CED - 5933b086e8b6a7fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;project_1771400.PlayerViewController&gt;"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "796D562F-DE03-44AF-A355-20A94B320F1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project-1771400/Player/PlayerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "PlayerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "796D562F-DE03-44AF-A355-20A94B320F1F - e94d5874f26e1975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.simplePlayer.getter : project_1771400.SimplePlayer"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "796D562F-DE03-44AF-A355-20A94B320F1F - c29a291529813547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; project_1771400.PlayerViewController"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "796D562F-DE03-44AF-A355-20A94B320F1F - 5933b086e8b6a785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_1771400.PlayerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;project_1771400.PlayerViewController&gt;"
+                  moduleName = "project-1771400"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sungjoonlee/Desktop/AppleMusicStApp%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/project-1771400/Player/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
