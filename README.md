@@ -2,19 +2,11 @@
 
 
 ```
-### 선택 화면
+ 선택 화면
 
 - 하나의 collectionView 안에 여러 contentView를 포함하여 구성
 - 앱 안에 포함된 곡의 정보를 불러오며 선택 화면 속 UI 생성
     - 곡 파일에 미리 앨범 사진, 곡 이름, 아티스트 이름을 저장
-    - 아래의 코드를 통해 해당 정보를 불러와서 각 셀을 구성
-        
-        ```swift
-        trackThumbnail.image = track.artwork
-        trackTitle.text = track.title
-        trackArtist.text = track.artist
-        ```
-        
 - 상단에 추천곡 표시 기능
     - loadTrack()함수를 통해 곡 정보를 불러옴
     - 불러들여진 곡 중에서 randomElement()를 통해 선정
