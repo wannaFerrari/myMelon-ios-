@@ -32,3 +32,7 @@
 - 반투명한 화면 위에 가사 출력
 - 저장된 곡 제목을 switch case 문을 통해 일치하는 제목의 가사를 label에 출력
 ```
+
+### 플레이 영상
+[![Video Label](http://img.youtube.com/vi/Ib36k__zh6M/0.jpg)](https://youtu.be/Ib36k__zh6M)
+이미지를 클릭하면 유튜브로 
