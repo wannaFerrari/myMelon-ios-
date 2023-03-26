@@ -35,4 +35,4 @@
 
 ### 플레이 영상
 [![Video Label](http://img.youtube.com/vi/Ib36k__zh6M/0.jpg)](https://youtu.be/Ib36k__zh6M)
-이미지를 클릭하면 유튜브로 
+이미지를 클릭하면 유튜브로 이동합니다
